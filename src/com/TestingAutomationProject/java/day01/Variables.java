@@ -30,7 +30,7 @@ public class Variables {
 		int AntBat=Ant+Bat;
 		System.out.println("Sum of Ant and Bat is " + AntBat);
 		//multi variable
-		int X=10, Y=15,Z=20;
+		int X=10,   Y=15,Z=20;
 		int XYZSum = X+Y+Z;
 		System.out.println("Sum of X,Y,Z is "+XYZSum);
 		

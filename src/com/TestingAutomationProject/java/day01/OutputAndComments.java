@@ -3,7 +3,7 @@ package com.TestingAutomationProject.java.day01;
 public class OutputAndComments {
 
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {  
 		
 				System.out.print("Java is easy ");// print in same line
 				System.out.println("I can do it");//moves to next line
